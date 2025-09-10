@@ -46,6 +46,7 @@ const AnimatedAboutSectionOne: React.FC<AnimatedAboutSectionOneProps> = ({ title
             >
               <SectionTitle
                 title={title}
+                subtitle=" "
                 paragraph={paragraph}
                 mb="24px"
                 center={false}
@@ -53,6 +54,7 @@ const AnimatedAboutSectionOne: React.FC<AnimatedAboutSectionOneProps> = ({ title
               {subtitle && (
                 <SectionTitle
                   title=""
+                  subtitle=" "
                   paragraph={subtitle}
                   mb="0"
                   center={false}

@@ -107,7 +107,10 @@ const AnimatedSections = ({ testimonials }: { testimonials: Testimonial[] }) => 
       
       <SectionWrapper className="bg-white dark:bg-gray-900 py-6 md:py-8">
         <motion.div variants={slideInFromRight} custom={0.5}>
-          <AnimatedAboutSectionOne />
+          <AnimatedAboutSectionOne
+            title="About Us"
+            paragraph="We are committed to delivering the best digital solutions for your business. Our team specializes in web development, digital marketing, and more."
+          />
         </motion.div>
       </SectionWrapper>
       
