@@ -8,7 +8,7 @@ const Hero = () => {
   return (
     <SectionWrapper 
       id="home" 
-      className="relative z-10 overflow-hidden"
+      className="relative z-10 overflow-hidden pt-32 md:pt-24"
       padding="lg"
     >
       <div className="flex flex-col lg:flex-row items-center justify-between gap-8">
