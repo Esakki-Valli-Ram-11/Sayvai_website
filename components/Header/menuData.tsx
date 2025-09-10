@@ -45,7 +45,7 @@ const menuData: Menu[] = [
       {
         id: 46,
         title: "Digital Marketing",
-        path: "https://sayvaidigital.netlify.app/",
+        path: "https://marketing.sayvai.com/",
         newTab: true,
       },
       {

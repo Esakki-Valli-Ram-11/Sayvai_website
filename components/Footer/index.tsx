@@ -145,7 +145,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="https://sayvaidigital.netlify.app/" // <-- external URL
+                      href="https://marketing.sayvai.com/" // <-- external URL
                       target="_blank"
                       rel="noopener noreferrer"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-[#45988e] dark:hover:text-[#45988e]"

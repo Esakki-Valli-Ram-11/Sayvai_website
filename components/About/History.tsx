@@ -15,8 +15,7 @@ const History= () => {
                 </h3>
                 <p className="mt-8 text-base font-medium leading-relaxed text-body-color text-justify sm:text-lg sm:leading-relaxed">
                 In August 2023, Sayvai embarked on a journey with ambitious vision to change the way people interact with technology. Founded by a passionate team committed to hitch up the power of artificial intelligence, Sayvai set out to enhance everyday experiences through innovation and excellence.                </p>
-                <p className="mt-8 text-base font-medium leading-relaxed text-body-color text-justify sm:text-lg sm:leading-relaxed">
-                In August 2023, Sayvai embarked on a journey with ambitious vision to change the way people interact with technology. Founded by a passionate team committed to hitch up the power of artificial intelligence, Sayvai set out to enhance everyday experiences through innovation and excellence.                </p>
+                
                 <p className="mt-8 text-base font-medium leading-relaxed text-body-color text-justify sm:text-lg sm:leading-relaxed">
                 In September 2023, Sayvai expanded its product offerings with AI voice assistance, inflating its value delivery and setting the stage for sustainable growth.                </p>
                 <p className="mt-8 text-base font-medium leading-relaxed text-body-color text-justify sm:text-lg sm:leading-relaxed">

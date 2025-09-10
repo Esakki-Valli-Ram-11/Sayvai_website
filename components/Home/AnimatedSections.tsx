@@ -109,7 +109,8 @@ const AnimatedSections = ({ testimonials }: { testimonials: Testimonial[] }) => 
         <motion.div variants={slideInFromRight} custom={0.5}>
           <AnimatedAboutSectionOne
             title="About Us"
-            paragraph="We are committed to delivering the best digital solutions for your business. Our team specializes in web development, digital marketing, and more."
+            paragraph="At Sayvai, we're on a mission to get businesses into future where AI enhances, rather than replaces, human connections. We make AI accessible, relatable, and beneficial, helping businesses thrive in a world where compassion and innovation go hand in hand.  Our vision at Sayvai is to create a world where every interaction with technology feels personal, empathetic, and enriching. We envision a future where AI not only streamlines processes efficiently but also fosters deeper connections and understanding between businesses and their customers. By infusing every solution with a human touch, we aim to redefine the possibilities of AI, transforming industries and enriching lives with every interaction."
+            
           />
         </motion.div>
       </SectionWrapper>

@@ -31,7 +31,7 @@ const services = [
     title: "Digital Marketing",
     description:
       "Audience insights, content generation, and performance optimization with AI.",
-    href: "https://sayvaidigital.netlify.app/",
+    href: "https://marketing.sayvai.com/",
     tag: "Service",
     image: "/images/Services/service-03.jpg",
     alt: "Digital marketing visual",
