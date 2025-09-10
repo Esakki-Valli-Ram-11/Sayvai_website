@@ -34,7 +34,14 @@ const fadeInRight = {
   }
 };
 
-const AboutSectionOne = () => {
+// ✅ Add props interface
+interface AboutSectionOneProps {
+  title: string;
+  subtitle?: string; // optional subtitle
+  paragraph: string;
+}
+
+const AboutSectionOne: React.FC<AboutSectionOneProps> = ({ title, subtitle, paragraph }) => {
   return (
     <section id="about" className="pt-4 md:pt-4 lg:pt-4">
       <div className="container">
@@ -48,17 +55,19 @@ const AboutSectionOne = () => {
               variants={fadeInLeft}
             >
               <SectionTitle
-                title="About Us"
-                paragraph="At Sayvai, we're on a mission to get businesses into future where AI enhances, rather than replaces, human connections. We make AI accessible, relatable, and beneficial, helping businesses thrive in a world where compassion and innovation go hand in hand."
+                title={title}
+                paragraph={paragraph}
                 mb="24px"
                 center={false}
               />
-              <SectionTitle
-                title=""
-                paragraph="Our vision at Sayvai is to create a world where every interaction with technology feels personal, empathetic, and enriching. We envision a future where AI not only streamlines processes efficiency but also fosters deeper connections and understanding between businesses and their customers. By infusing every solution with a human touch, we aim to redefine the possibilities of AI, transforming industries and enriching lives with every interaction."
-                mb="0"
-                center={false}
-              />
+              {subtitle && (
+                <SectionTitle
+                  title=""
+                  paragraph={subtitle}
+                  mb="0"
+                  center={false}
+                />
+              )}
             </motion.div>
 
             <motion.div 
