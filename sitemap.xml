@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://sayvai.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://sayvai.com/about</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sayvai.com/blog</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sayvai.com/services</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sayvai.com/team</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://sayvai.com/contact</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://sayvai.com/Fashion_Industry</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Service Detail Pages -->
+  <url>
+    <loc>https://sayvai.com/phone-call-solutions</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://sayvai.com/custom-ai-solutions</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Solutions Detail Pages -->
+  <url>
+    <loc>https://sayvai.com/Finance&account</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://sayvai.com/Fashion_Industry</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://sayvai.com/Sales&Support</loc>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
