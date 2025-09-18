@@ -50,7 +50,7 @@
 
   <!-- Solutions Detail Pages -->
   <url>
-    <loc>https://sayvai.com/Finance&account</loc>
+    <loc>https://sayvai.com/Finance&amp;account</loc>
     <priority>0.7</priority>
   </url>
 
@@ -60,7 +60,7 @@
   </url>
 
   <url>
-    <loc>https://sayvai.com/Sales&Support</loc>
+    <loc>https://sayvai.com/Sales&amp;Support</loc>
     <priority>0.7</priority>
   </url>
 
