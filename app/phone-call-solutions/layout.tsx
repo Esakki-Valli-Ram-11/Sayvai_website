@@ -3,7 +3,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Phone Call Solutions | Sayvai",
   description: "Enhance your business communication with our advanced phone call solutions.",
-  robots: "noindex, nofollow"
+  robots: ""
 };
 
 export default function PhoneCallSolutionsLayout({
